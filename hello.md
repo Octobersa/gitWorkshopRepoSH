@@ -1,2 +1,2 @@
 Hello dear Git!
-Hello from simir branch
+Hello dear from Simir branch
